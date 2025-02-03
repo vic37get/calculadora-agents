@@ -1,4 +1,4 @@
-# CalculadoraAgents
+# Calculadora com uso de Agentes
 :iphone: Calculadora de expressões aritméticas usando Agentes.
 ## Configurando o Ambiente
 Para a execução do código é necessário ter o python instalado junto com o framework PADE.
